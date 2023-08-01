@@ -1,16 +1,6 @@
-# foodapp
+# Food Delivery App UI
+## This is the food delivery app for deliver and recieving food as soon as possible. The main view of this project is added in this readme section.
 
-A new Flutter project.
+![picture1](https://github.com/shahriar00/Food-Delivery-Apps-UI/assets/70763173/747930cc-6579-4562-9c29-84163953937d) 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![picture2](https://github.com/shahriar00/Food-Delivery-Apps-UI/assets/70763173/d02c90b0-ef57-4610-8092-f045e9991e22)
